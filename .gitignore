@@ -4,6 +4,9 @@
 .mtj.tmp/
 
 # Package Files #
+/BigTransport.iml
+/BigTransport.ipr
+/out
 *.jar
 *.war
 *.ear
