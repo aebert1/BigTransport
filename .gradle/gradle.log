@@ -1,0 +1,24 @@
+#################################################
+         ForgeGradle 2.1-SNAPSHOT-da90449        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+               Powered by MCP unknown               
+             http://modcoderpack.com             
+         by: Searge, ProfMobius, Fesh0r,         
+         R4wk, ZeuX, IngisKahn, bspkrs           
+#################################################
+:help
+
+Welcome to Gradle 2.7.
+
+To run a build, run gradlew <task> ...
+
+To see a list of available tasks, run gradlew tasks
+
+To see a list of command-line options, run gradlew --help
+
+To see more detail about a task, run gradlew help --task <task>
+
+BUILD SUCCESSFUL
+
+Total time: 24.654 secs
