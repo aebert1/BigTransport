@@ -7,18 +7,15 @@
          by: Searge, ProfMobius, Fesh0r,         
          R4wk, ZeuX, IngisKahn, bspkrs           
 #################################################
-:help
-
-Welcome to Gradle 2.7.
-
-To run a build, run gradlew <task> ...
-
-To see a list of available tasks, run gradlew tasks
-
-To see a list of command-line options, run gradlew --help
-
-To see more detail about a task, run gradlew help --task <task>
+:deobfCompileDummyTask
+:deobfProvidedDummyTask
+:ideaModule
+Download https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6-sources.jar
+Download https://libraries.minecraft.net/com/mojang/authlib/1.5.22/authlib-1.5.22-sources.jar
+:ideaProject
+:ideaWorkspace
+:idea
 
 BUILD SUCCESSFUL
 
-Total time: 24.654 secs
+Total time: 25.152 secs
